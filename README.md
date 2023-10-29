@@ -12,7 +12,7 @@ This Java JDBC project allows users to interact with a database, performing CRUD
 
 ## Setup and Usage
 ### Database Setup:
-- Make sure you have a JDBC-compliant database installed (e.g., MySQL, PostgreSQL).
+- Make sure you have a JDBC-compliant database installed (e.g. PostgreSQL).
 - Modify the connection URL, username, and password in the code to match your database configuration.
 
 ### Execution:
